@@ -30,4 +30,4 @@ Speed (change from _d)
 >_sf for super fast
 
 
-put this in a file called pyType in the directory of the python file
+put the pyType.py file in a folder called pyType in the directory of the python file
