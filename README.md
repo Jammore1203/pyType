@@ -6,21 +6,26 @@ put this at the top to import the module:
 import pyType.pyType as pt
 
 use it as 
-pt.pType_d("hello")
+> pt.pType_d("hello")
+
 or
-pt.iType_d("hello")
 
-```
-prefix p for print
-prefix i for inputs
-```
+> pt.iType_d("hello")
 
-change _d for
+Prefixes:
 
-```
-_s for slow
-_ss for super slow
+>prefix p for print
+>
+>.prefix i for inputs
 
-_f for fast
-_sf for super fast
-```
+
+Speed (change from _d)
+
+>_s for slow
+>
+>_ss for super slow
+
+>_f for fast
+>
+>_sf for super fast
+
